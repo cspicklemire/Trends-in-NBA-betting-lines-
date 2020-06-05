@@ -21,4 +21,4 @@ Moneyline bets are NOT standardized to give even sides like spread bets are, and
 
 The button below this links to an interactive Jupyter notebook with my code
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cspicklemire/placeholder/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cspicklemire/Trends-in-NBA-betting-lines/master)
