@@ -5,11 +5,15 @@ The goal of this project is to learn about the ways to forecast basketball games
 https://www.sportsbookreviewsonline.com/scoresoddsarchives/nba/nbaoddsarchives.htm
 
 
-This great site has complete game summaries, including the opening, closing, and 2nd-half betting lines for every NBA game dating back to the 2007-08 season.
+This useful site has complete game summaries, including the opening, closing, and 2nd-half betting lines for every NBA game dating back to the 2007-08 season.
 
 To understand the basics of how betting lines can inform forecasting, there are two main terms that would be helpful to understand:
 
-**Point Spread** - Often referred to simply as "the spread", this tells us how many points the favorite is favored by. The spread is standardized such that each side of the bet is given the same odds, or each side of the wager is balanced to be roughly 50-50. An easy way to think about it is to subtract the point spread from the favorite's total at the end of the game and pay out the bet based on that. Therefore, a point spread of 5.5 means that betting on the favorite pays out if the favorite wins by at least 6, and betting on the underdog pays out so long as they lose by 5 or less. There is not an easy formula to find the implied win percentage from a given point spread, which was one of the curiosities that led me to pursue this project.
+**Point Spread** - Often referred to simply as "the spread", this tells us how many points the favorite is favored by. The spread is standardized such that each side of the bet is given the same odds, or each side of the wager is balanced to be roughly 50-50. 
+
+An easy way to think about it is to subtract the point spread from the favorite's total at the end of the game and pay out the bet based on that. Therefore, a point spread of 5.5 means that betting on the favorite pays out if the favorite wins by at least 6, and betting on the underdog pays out so long as they lose by 5 or less. 
+
+There is not an obvious conversion to find the implied win percentage from a given point spread, which was one of the curiosities that led me to pursue this project.
 
 **Moneyline** - The moneyline gives the straight-up odds of each team's chance to win the game.
 
